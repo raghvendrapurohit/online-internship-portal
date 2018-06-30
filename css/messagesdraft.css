@@ -1,0 +1,8 @@
+
+body{background:#183070}
+
+
+.container div[class="alert alert-info"]{position:relative;left:10%}
+.mssgsection a[class="btn btn-info btn-lg"]{background:#000000;}
+.container div[class="list-group"]{position:relative;left:10%;}
+.container div[class="sidesection"]{background:#B3B3B3;width:230px;padding-left:16px;padding-top:22px;border-radius:10px;position:absolute;bottom:5%;right:85%;height:500px;}
